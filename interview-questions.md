@@ -71,12 +71,12 @@ Research and define the following terms to the best of your ability.
 
 1. Higher Order Functions: is a function that accepts functions as parameters and/or returns a function.
 
-2. Jest: is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
-It enables you to write tests for your code quickly.
+2. Jest: is a JavaScript testing framework designed to make sure after an input of a code, the output matches with the expected output.
+It also enables you to write tests for your code quickly.
 
 3. Objects: are a data type that has collections of key-value pairs. They are containers for named values called properties.
 
 4. Method: JavaScript methods are actions that can be performed on objects. Methods are functions stored as object properties.
 
-5. Classes: are template for creating objects. They encapsulate data and function that manipulate data, grouping data and
+5. Classes: are template for creating objects. They are like bundle of data that manipulate data, group data and
 functionality together.
